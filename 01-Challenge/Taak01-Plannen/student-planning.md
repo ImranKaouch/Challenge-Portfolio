@@ -13,14 +13,14 @@
 | Stap        | Taak                                           | Verwachte tijdsduur | Status |
 | ----------- | ---------------------------------------------- | ------------------- | ------ |
 | Planning    | Planning maken                                 | 00:30 u             | Bezig  |
-| Ontwerpen   | Mockup van portfolio maken                     |                     |        |
-| ...         | Styling van elementen bepalen                  |                     |        |
-| Realiseren  | Bestanden aanmaken                             |                     |        |
+| Ontwerpen   | Mockup van portfolio maken                     | 00:45 u             | Niet gestart   |
+| ...         | Styling van elementen bepalen                  | 00:15 u             | Niet gestart   |
+| Realiseren  | Bestanden aanmaken                             | 00:10 u             | Niet gestart   |
 | ...         |                                                |                     |        |
-| Testen      | Applicatie testen                              |                     |        |
+| Testen      | Applicatie testen                              | 00:10 u             | Niet gestart   |
 | ...         |                                                |                     |        |
-| Verbeteren  | Problemen gevonden tijdens het testen oplossen |                     |        |
-| ...         |                                                |                     |        |
-| Presenteren |                                                |                     |        |
-| ...         |                                                |                     |        |
-| Refecteren  | Reflectiedocument schrijven                    |                     |        |
+| Verbeteren  | Problemen gevonden tijdens het testen oplossen | 00:25 u             | Niet gestart   |
+| ...         |                                                |                     |    |
+| Presenteren |                                                |                     |    |
+| ...         |                                                |                     |    |
+| Refecteren  | Reflectiedocument schrijven                    | 00:45               | Niet gestart   |
